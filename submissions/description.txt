@@ -1,0 +1,7 @@
+1. Client requests info from Server
+2. Server asks Controller for info
+3. Controller asks Model for info
+4. Model tells Controller info
+5. Controller formats info
+6. Controller sends formatted info up to Server
+7. Server sends formatted info up to Client
