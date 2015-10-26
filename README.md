@@ -6,5 +6,7 @@ Fork and clone this repository.
 
 ### Questions
 1. Explain why Rails exists and what it's used for.
+Answer:  A web framework, Rails is a tool for building web apps written in Ruby. Architecture similar MVC.
+
 1. Using a marker, pen, or pencil, sketch the components of an (R)MVC architecture, how they interconnect, and which components have what responsibilities. Take a photo of your drawing and add it to the `submissions` directory inside your clone.
 1. Describe the flow of a PATCH request as it goes through the app.
