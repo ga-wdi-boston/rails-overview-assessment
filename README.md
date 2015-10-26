@@ -2,8 +2,9 @@
 
 ## Assessment :: Rails Overview
 
-### Instructions
-1. Fork and clone this repository.
-1. Draw out the components of an (R)MVC architecture and sketch out the flow of a PATCH request going through the app.
-1. Take a photo of your drawing and add it to the `submissions` directory inside your clone.
-1. Push back to your fork and make a pull request!
+Fork and clone this repository.
+
+### Questions
+1. Explain why Rails exists and what it's used for.
+1. Using a marker, pen, or pencil, sketch the components of an (R)MVC architecture, how they interconnect, and which components have what responsibilities. Take a photo of your drawing and add it to the `submissions` directory inside your clone.
+1. Describe the flow of a PATCH request as it goes through the app.
